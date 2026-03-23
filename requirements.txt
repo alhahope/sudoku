@@ -1,0 +1,6 @@
+# Sudoku Solver — conda environment
+# 用 conda 安装依赖后直接运行，不需要 pip 安装任何包
+
+# 图片识别依赖（可选）
+opencv-python>=4.8.0
+# 纯 Python 实现，无需 Tesseract 等本地服务
